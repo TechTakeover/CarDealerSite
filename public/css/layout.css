@@ -1,0 +1,27 @@
+.background {
+  background-color: #36312F;
+}
+
+.logo {
+  background-color: #DE0900;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 6.25rem;
+}
+
+.mainContent {
+  background-color: #FF5800;
+}
+
+.mainContent ul {
+  margin: 1em 28.125em 1em 28.125em;
+}
+
+.mainContent li {
+  display: inline;
+  padding: 10em 1em 10em 1em;
+}
+
+.vehicles {
+  background-color: #0020AB;
+}
