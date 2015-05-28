@@ -25,3 +25,22 @@
 .vehicles {
   background-color: #0020AB;
 }
+
+#car {
+  background-image: url(../images/muscle.jpg);
+  display: inline;
+  height: 5em;
+  width: 5em;
+}
+#van {
+  background-image: url(../images/van.jpg);
+  display: inline;
+  height: 5em;
+  width: 5em;
+}
+#truck {
+  background-image: url(../images/truck.jpg);
+  display: inline;
+  height: 5em;
+  width: 5em;
+}
